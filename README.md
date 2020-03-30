@@ -26,8 +26,8 @@ Comparing to the other models, MLR model showed a better result.
 As of now **`85.3%`** of variance in the sale price can be explained by this model,in other words, model can generalize from train/test data to predict the house value, with **`+/-$27K`** price error. This model is built using numeric datasets, and can be improved by leveraging feature engineerign to include eresting features like Neighborhood house style and materials. 
 This model can be used for the following purposes:
 
-#### Predicting Property Price
+#### - Predicting Property Price
 This model can be used for any dataset that includes similar attributes on house features to predict the property's selling price.
 
-#### Inference
+#### - Inference
 This model can be used to outline and test some of the most important factors/features that influence house's value.
