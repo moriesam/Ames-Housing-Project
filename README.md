@@ -11,7 +11,7 @@ The Ames Housing dataset is used in the Advanced Regression Techniques challenge
 
 ### Process included:<br>
 - Data Cleaning & EDA<br>
-- Preprocessing and Modeling - 3 models are provided:<br>
+- Preprocessing and Modeling:<br>
     >MLR<br> 
     >LASSO<br>
     > RIDGE<br>
